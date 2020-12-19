@@ -2,8 +2,10 @@
 Created By: Tori Sanford
 Date: 12/19/2020
 Contact: Tori.danielle.clark91@gmail.com
-Link to deployed Project:
-Screen shot of project:
+Link to deployed Project: https://tsanfordgatech.github.io/responsive-portfolio/
+Screen shot of project: ![Final Screen shot](./assets/aboutmepage.png)
+![Final Screen shot](./assets/portfoliopage.png)
+![Final Screen shot](./assests/contactpage.png)
 
 Objective:
 Create a responsive portfolio with a navigation bar, responsive layout, and responsive images utalizing bootstrap. 
@@ -39,3 +41,6 @@ Bonus
 Submission/ completed links: 
 1. The URLs of the deployed applications
 2. The URLs of the GitHub repositories
+
+HTML Validation check: 
+![Final Screen shot](./assets/html.png)
