@@ -5,7 +5,7 @@ Contact: Tori.danielle.clark91@gmail.com
 Link to deployed Project: https://tsanfordgatech.github.io/responsive-portfolio/
 Screen shot of project: ![Final Screen shot](./assets/aboutmepage.png)
 ![Final Screen shot](./assets/portfoliopage.png)
-![Final Screen shot](./assests/contactpage.png)
+![Final Screen shot](./assets/contactpage.png)
 
 Objective:
 Create a responsive portfolio with a navigation bar, responsive layout, and responsive images utalizing bootstrap. 
