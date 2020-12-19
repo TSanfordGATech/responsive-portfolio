@@ -119,9 +119,6 @@ h2,
     margin-top: 8px;
     margin-right: 5px;
   }
-.connect {
-    margin-right: 20px;
-}
 
 /* contact Me page */
 #contact-form ul, #contact-form li {
@@ -134,7 +131,7 @@ textarea {
     display: block;
     width: 100%; 
   }
-  
+/* user input area */
 textarea {
     height: 100px;
   }
@@ -149,6 +146,7 @@ input[type=submit] {
   }
 
 /* Portfolio page */
+/* starting of a grid */
 .work {
     position: relative;
     width: 274px;
@@ -180,7 +178,7 @@ input[type=submit] {
     background: #72a8a6;
     border-bottom: 0;
   }
-  
+/* images in the portfolio, from shutterstock */
 .auth-image {
     width: 200px;
     height: auto;
@@ -189,3 +187,11 @@ input[type=submit] {
     float: left;
   }
   
+
+/* media files for formatting */
+@media screen and (max-width: 980px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
