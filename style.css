@@ -3,7 +3,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     line-height: 34px;
-    background: url("./assets/backdrop.jpg");
+    background-image: url("./assets/backdrop.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
 
 /* Navigation */
@@ -57,6 +60,13 @@ h1, h2 {
     text-decoration: none;
     background: #72a8a6;
   }
+
+/* Updating Paragraph */
+p {
+  font-size: 22px;
+  color: linen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
   
 /* Containers */
