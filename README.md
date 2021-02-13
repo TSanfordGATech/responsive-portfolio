@@ -12,6 +12,7 @@ Create a responsive portfolio with a navigation bar, responsive layout, and resp
 
 About this project:
 This Project will ensure I can add, and properly size, a nav bar in different web applications or screen sizes. The size rendering should affect my site as well as my images. 
+02/11/2021 this project was updated to include team Project 1 and two homework assignments. 
 
 Files included in this repo:
 Index html for my main content
@@ -33,6 +34,18 @@ Grading criteria and/or requirements:
 9. Each page must have valid and correct HTML. (use a validation service)
 10. Must contain your personalized information. (bio, name, images, links to social media, etc.)
 11. Must properly utilize Bootstrap components and grid system.
+
+
+## Requirements for HW assignment 08-02
+
+* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+
+* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+
+* Submit an updated resume
+
+* Submit an updated LinkedIn profile
+
 
 Bonus
 1. Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
