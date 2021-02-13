@@ -159,11 +159,17 @@ input[type=submit] {
 /* starting of a grid */
 .work {
     position: relative;
-    width: 274px;
+    width: 500px;
     overflow: auto;
     float: left;
     margin: 20px 0 25px;
   }
+
+h3 {
+  color: linen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: oblique;
+}
   
 .work:nth-child(even) {
     margin-right: 40px;
